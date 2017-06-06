@@ -6,5 +6,9 @@ namespace CoolComputers
 {
     class Product
     {
+        public int Id()
+        {
+
+        }
     }
 }
