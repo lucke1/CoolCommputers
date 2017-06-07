@@ -6,5 +6,6 @@ namespace CoolComputers
 {
     class Order
     {
+        public 
     }
 }
